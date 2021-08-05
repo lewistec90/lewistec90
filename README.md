@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewistec90
-- 👀 I’m interested in AI and crypto
-- 🌱 I’m currently learning Containers, Devops
+- 👀 I’m interested in web, desktop, movil, AI and crypto
+- 🌱 I’m currently learning Containers
 - 💞️ I’m looking to collaborate on interesting topics
 - 📫 How to reach me, here.
 
